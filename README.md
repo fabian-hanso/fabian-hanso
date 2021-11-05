@@ -1,4 +1,4 @@
-- 👋 Hi, I’m fabian-hanso
+- 👋 Hi, my name is Fabian!
 - 🚀 I'm a Rocket Engineer.
 - 🔥 Making the Web amazing!
 - 📫 Message me via: f.hanso@revice-media.com
