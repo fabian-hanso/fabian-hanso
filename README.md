@@ -1,4 +1,4 @@
 - 👋 Hi, my name is Fabian!
-- 🚀 I'm a Rocket Engineer.
-- 🔥 Making the Web amazing!
+- 👨‍💻 Working for Accenture.
+- 🔥 Building amazing web stuff!
 - 📫 Message me via: f.hanso@revice-media.com
